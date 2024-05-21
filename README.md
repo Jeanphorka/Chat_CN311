@@ -1,4 +1,4 @@
-# EChat
+# Chat_Project
 Chat App using Java Socket Programming
 
 # Technologies
